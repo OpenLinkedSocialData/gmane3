@@ -1,0 +1,26 @@
+@prefix gmane: <http://purl.org/socialparticipation/gmane/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/po/Snapshot#gmane-org-user-groups-linux-brazil-slackware> a po:Snapshot ;
+    rdfs:label "Snapshot gmane-org-user-groups-linux-brazil-slackware"^^xsd:string ;
+    gmane:gmaneID "gmane.org.user-groups.linux.brazil.slackware"^^xsd:string ;
+    gmane:nCharacters 21702053 ;
+    gmane:nMessages 35985 ;
+    gmane:nParticipants 2126 ;
+    gmane:nResponses 29474 ;
+    po:acquiredThrough "Gmane public database of email lists"^^xsd:string ;
+    po:availableAt "https://github.com/OpenLinkedSocialData/gmane2/tree/master/gmane-org-user-groups-linux-brazil-slackware"^^xsd:string ;
+    po:createdAt "2015-12-14T05:45:31.914903"^^xsd:datetime ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-org-user-groups-linux-brazil-slackwareMeta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-org-user-groups-linux-brazil-slackwareMeta.ttl"^^xsd:string ;
+    po:donatedBy "Gmane database and public list participants"^^xsd:string ;
+    po:rdfFile "https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-org-user-groups-linux-brazil-slackwareTranslate.owl"^^xsd:string ;
+    po:triplifiedIn "2015-12-14T05:46:07.105855"^^xsd:datetime ;
+    po:ttlFile "https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-org-user-groups-linux-brazil-slackwareTranslate.ttl"^^xsd:string ;
+    rdfs:comment "Linked data of the email list with Gmane id: gmane.org.user-groups.linux.brazil.slackware"^^xsd:string .
+

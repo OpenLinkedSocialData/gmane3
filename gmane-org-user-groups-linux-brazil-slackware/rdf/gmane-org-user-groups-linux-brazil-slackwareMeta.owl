@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:gmane="http://purl.org/socialparticipation/gmane/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#gmane-org-user-groups-linux-brazil-slackware">
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gmane database and public list participants</po:donatedBy>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Snapshot gmane-org-user-groups-linux-brazil-slackware</rdfs:label>
+    <gmane:nCharacters rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21702053</gmane:nCharacters>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-14T05:45:31.914903</po:createdAt>
+    <gmane:nMessages rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35985</gmane:nMessages>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Linked data of the email list with Gmane id: gmane.org.user-groups.linux.brazil.slackware</rdfs:comment>
+    <gmane:nResponses rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29474</gmane:nResponses>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-14T05:46:07.105855</po:triplifiedIn>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-org-user-groups-linux-brazil-slackwareTranslate.owl</po:rdfFile>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gmane public database of email lists</po:acquiredThrough>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <gmane:gmaneID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">gmane.org.user-groups.linux.brazil.slackware</gmane:gmaneID>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-org-user-groups-linux-brazil-slackwareMeta.owl</po:discorveryRDFFile>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-org-user-groups-linux-brazil-slackwareTranslate.ttl</po:ttlFile>
+    <gmane:nParticipants rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2126</gmane:nParticipants>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-org-user-groups-linux-brazil-slackwareMeta.ttl</po:discoveryTTLFile>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/OpenLinkedSocialData/gmane2/tree/master/gmane-org-user-groups-linux-brazil-slackware</po:availableAt>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:gmane="http://purl.org/socialparticipation/gmane/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#gmane-linux-redhat-rpm-general">
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-14T15:01:01.332649</po:triplifiedIn>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-linux-redhat-rpm-generalTranslate.ttl</po:ttlFile>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Linked data of the email list with Gmane id: gmane.linux.redhat.rpm.general</rdfs:comment>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-14T15:00:51.551340</po:createdAt>
+    <gmane:nCharacters rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7033128</gmane:nCharacters>
+    <gmane:nResponses rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8891</gmane:nResponses>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/OpenLinkedSocialData/gmane2/tree/master/gmane-linux-redhat-rpm-general</po:availableAt>
+    <gmane:nMessages rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12592</gmane:nMessages>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-linux-redhat-rpm-generalTranslate.owl</po:rdfFile>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Snapshot gmane-linux-redhat-rpm-general</rdfs:label>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-linux-redhat-rpm-generalMeta.ttl</po:discoveryTTLFile>
+    <gmane:nParticipants rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1876</gmane:nParticipants>
+    <gmane:gmaneID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">gmane.linux.redhat.rpm.general</gmane:gmaneID>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-linux-redhat-rpm-generalMeta.owl</po:discorveryRDFFile>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gmane database and public list participants</po:donatedBy>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gmane public database of email lists</po:acquiredThrough>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:gmane="http://purl.org/socialparticipation/gmane/"
+   xmlns:po="http://purl.org/socialparticipation/po/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://purl.org/socialparticipation/po/Snapshot#gmane-science-linguistics-wikipedia-deutsch">
+    <gmane:nResponses rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20535</gmane:nResponses>
+    <po:availableAt rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://github.com/OpenLinkedSocialData/gmane2/tree/master/gmane-science-linguistics-wikipedia-deutsch</po:availableAt>
+    <po:ttlFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-science-linguistics-wikipedia-deutschTranslate.ttl</po:ttlFile>
+    <po:discorveryRDFFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-science-linguistics-wikipedia-deutschMeta.owl</po:discorveryRDFFile>
+    <gmane:nMessages rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25502</gmane:nMessages>
+    <po:rdfFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-science-linguistics-wikipedia-deutschTranslate.owl</po:rdfFile>
+    <po:acquiredThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gmane public database of email lists</po:acquiredThrough>
+    <po:donatedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gmane database and public list participants</po:donatedBy>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Snapshot gmane-science-linguistics-wikipedia-deutsch</rdfs:label>
+    <po:triplifiedIn rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-14T14:43:32.300298</po:triplifiedIn>
+    <gmane:nParticipants rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1200</gmane:nParticipants>
+    <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Linked data of the email list with Gmane id: gmane.science.linguistics.wikipedia.deutsch</rdfs:comment>
+    <gmane:nCharacters rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17642341</gmane:nCharacters>
+    <po:discoveryTTLFile rdf:datatype="http://www.w3.org/2001/XMLSchema#string">https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-science-linguistics-wikipedia-deutschMeta.ttl</po:discoveryTTLFile>
+    <rdf:type rdf:resource="http://purl.org/socialparticipation/po/Snapshot"/>
+    <gmane:gmaneID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">gmane.science.linguistics.wikipedia.deutsch</gmane:gmaneID>
+    <po:createdAt rdf:datatype="http://www.w3.org/2001/XMLSchema#datetime">2015-12-14T14:43:09.942114</po:createdAt>
+  </rdf:Description>
+</rdf:RDF>

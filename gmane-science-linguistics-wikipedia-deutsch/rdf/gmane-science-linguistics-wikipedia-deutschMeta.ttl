@@ -1,0 +1,26 @@
+@prefix gmane: <http://purl.org/socialparticipation/gmane/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix po: <http://purl.org/socialparticipation/po/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://purl.org/socialparticipation/po/Snapshot#gmane-science-linguistics-wikipedia-deutsch> a po:Snapshot ;
+    rdfs:label "Snapshot gmane-science-linguistics-wikipedia-deutsch"^^xsd:string ;
+    gmane:gmaneID "gmane.science.linguistics.wikipedia.deutsch"^^xsd:string ;
+    gmane:nCharacters 17642341 ;
+    gmane:nMessages 25502 ;
+    gmane:nParticipants 1200 ;
+    gmane:nResponses 20535 ;
+    po:acquiredThrough "Gmane public database of email lists"^^xsd:string ;
+    po:availableAt "https://github.com/OpenLinkedSocialData/gmane2/tree/master/gmane-science-linguistics-wikipedia-deutsch"^^xsd:string ;
+    po:createdAt "2015-12-14T14:43:09.942114"^^xsd:datetime ;
+    po:discorveryRDFFile "https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-science-linguistics-wikipedia-deutschMeta.owl"^^xsd:string ;
+    po:discoveryTTLFile "https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-science-linguistics-wikipedia-deutschMeta.ttl"^^xsd:string ;
+    po:donatedBy "Gmane database and public list participants"^^xsd:string ;
+    po:rdfFile "https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-science-linguistics-wikipedia-deutschTranslate.owl"^^xsd:string ;
+    po:triplifiedIn "2015-12-14T14:43:32.300298"^^xsd:datetime ;
+    po:ttlFile "https://raw.githubusercontent.com/OpenLinkedSocialData/gmane2/master/rdf/gmane-science-linguistics-wikipedia-deutschTranslate.ttl"^^xsd:string ;
+    rdfs:comment "Linked data of the email list with Gmane id: gmane.science.linguistics.wikipedia.deutsch"^^xsd:string .
+
